@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/DevJobs.API.csproj": {}
+    "C:\\Users\\geovane.costa\\source\\repos\\dev-jobs\\DevJobs.API.csproj": {}
   },
   "projects": {
-    "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/DevJobs.API.csproj": {
+    "C:\\Users\\geovane.costa\\source\\repos\\dev-jobs\\DevJobs.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/DevJobs.API.csproj",
+        "projectUniqueName": "C:\\Users\\geovane.costa\\source\\repos\\dev-jobs\\DevJobs.API.csproj",
         "projectName": "DevJobs.API",
-        "projectPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/DevJobs.API.csproj",
-        "packagesPath": "/Users/geovane/.nuget/packages/",
-        "outputPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/obj/",
+        "projectPath": "C:\\Users\\geovane.costa\\source\\repos\\dev-jobs\\DevJobs.API.csproj",
+        "packagesPath": "C:\\Users\\geovane.costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geovane.costa\\source\\repos\\dev-jobs\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/geovane/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\geovane.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -78,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
