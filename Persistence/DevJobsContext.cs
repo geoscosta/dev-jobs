@@ -5,8 +5,9 @@ namespace DevJobs.API.Persistence
 {
     public class DevJobsContext : DbContext
     {
-        public DevJobsContext(DbContextOptions<DevJobsContext> options) : base(options)
+        public DevJobsContext(DbContextOptions<DevJobsContext> context) : base(context)
         {
+
         }
         public DbSet<JobVacancy> JobVacancies { get; set; }
         public DbSet<JobApplication> JobApplications { get; set; }
