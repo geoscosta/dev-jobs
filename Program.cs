@@ -12,12 +12,12 @@ var builder = WebApplication.CreateBuilder(args);
 var connectionStrings = builder.Configuration.GetConnectionString("DevJobsCs");
 
 // Use Data Base SQL Server
-builder.Services.AddDbContext<DevJobsContext>(options =>
-    options.UseSqlServer(connectionStrings));
+// builder.Services.AddDbContext<DevJobsContext>(options =>
+//     options.UseSqlServer(connectionStrings));
     
 // Use Data Base to memory
-//builder.Services.AddDbContext<DevJobsContext>(options =>
-//    options.UseInMemoryDatabase("DevJobs"));
+builder.Services.AddDbContext<DevJobsContext>(options =>
+   options.UseInMemoryDatabase("DevJobs"));
 
 builder.Services.AddScoped<IJobVacancyRepository, JobVacancyRepository>();
 
@@ -46,17 +46,17 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 // Use Log Application Save to DataBase
-builder.Host.ConfigureAppConfiguration((hostingContext, config) => {
-    Serilog.Log.Logger = new LoggerConfiguration()
-        .Enrich.FromLogContext()
-        .WriteTo.MSSqlServer(connectionStrings,
-            sinkOptions: new MSSqlServerSinkOptions() {
-                AutoCreateSqlTable = true,
-                TableName = "Logs"
-            })
-            .WriteTo.Console()
-            .CreateLogger();
-}).UseSerilog();
+// builder.Host.ConfigureAppConfiguration((hostingContext, config) => {
+//     Serilog.Log.Logger = new LoggerConfiguration()
+//         .Enrich.FromLogContext()
+//         .WriteTo.MSSqlServer(connectionStrings,
+//             sinkOptions: new MSSqlServerSinkOptions() {
+//                 AutoCreateSqlTable = true,
+//                 TableName = "Logs"
+//             })
+//             .WriteTo.Console()
+//             .CreateLogger();
+// }).UseSerilog();
 
 var app = builder.Build();
 

@@ -1,3 +1,81 @@
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/appsettings.json
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/DevJobs.API.exe
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/DevJobs.API.deps.json
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/DevJobs.API.runtimeconfig.json
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/DevJobs.API.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/DevJobs.API.pdb
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/DevJobs.API.xml
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Humanizer.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.csproj.AssemblyReference.cache
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.AssemblyInfoInputs.cache
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.AssemblyInfo.cs
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.csproj.CoreCompileInputs.cache
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/scopedcss/bundle/DevJobs.API.styles.css
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.csproj.CopyComplete
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/refint/DevJobs.API.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.xml
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.pdb
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/DevJobs.API.genruntimeconfig.cache
+C:/Users/geovane.costa/source/repos/dev-jobs/obj/Debug/net6.0/ref/DevJobs.API.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.Azure.Services.AppAuthentication.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.AspNetCore.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.Extensions.Hosting.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.Extensions.Logging.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.Settings.Configuration.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.Sinks.Debug.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.Sinks.File.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.Sinks.MSSqlServer.dll
+C:/Users/geovane.costa/source/repos/dev-jobs/bin/Debug/net6.0/Serilog.Sinks.PeriodicBatching.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/appsettings.Development.json
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/appsettings.json
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/DevJobs.API
@@ -7,6 +85,7 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/DevJobs.API.pdb
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/DevJobs.API.xml
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Humanizer.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.Azure.Services.AppAuthentication.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -15,7 +94,9 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
@@ -23,6 +104,17 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.AspNetCore.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.Extensions.Hosting.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.Extensions.Logging.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.Settings.Configuration.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.Sinks.Debug.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.Sinks.File.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.Sinks.MSSqlServer.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Serilog.Sinks.PeriodicBatching.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -62,81 +154,3 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/obj/Debug/net6.0/DevJobs.API.pdb
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/obj/Debug/net6.0/DevJobs.API.genruntimeconfig.cache
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/JornadaDotNet/DevJobs.API/obj/Debug/net6.0/ref/DevJobs.API.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\appsettings.json
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\DevJobs.API.exe
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\DevJobs.API.deps.json
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\DevJobs.API.runtimeconfig.json
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\DevJobs.API.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\DevJobs.API.pdb
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\DevJobs.API.xml
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Humanizer.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.csproj.AssemblyReference.cache
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.AssemblyInfoInputs.cache
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.AssemblyInfo.cs
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.csproj.CoreCompileInputs.cache
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\scopedcss\bundle\DevJobs.API.styles.css
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.csproj.CopyComplete
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\refint\DevJobs.API.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.xml
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.pdb
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\DevJobs.API.genruntimeconfig.cache
-C:\Users\geovane.costa\source\repos\dev-jobs\obj\Debug\net6.0\ref\DevJobs.API.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.AspNetCore.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.Sinks.Console.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.Sinks.File.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
-C:\Users\geovane.costa\source\repos\dev-jobs\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
