@@ -2,10 +2,8 @@ namespace DevJobs.API.Controllers
 {
     using DevJobs.API.Entities;
     using DevJobs.API.Models;
-    using DevJobs.API.Persistence;
     using DevJobs.API.Persistence.Repositories;
     using Microsoft.AspNetCore.Mvc;
-    using Microsoft.EntityFrameworkCore;
 
     [Route("api/job-vacancies")]
     [ApiController]
@@ -36,6 +34,21 @@ namespace DevJobs.API.Controllers
             return Ok(jobVacancy);
         }
 
+        /// <summary>
+        /// Cadastrar uma vada de emprego
+        /// </summary>
+        /// <remarks>
+        ///     {
+        ///     "title": "Dev .Net Jr",
+        ///     "description": "Desenvolvimento de aplicações para web",
+        ///     "company": "Mundo Ti",
+        ///     "isRemote": true,
+        ///     "salaryRange": "3000 - 5000"
+        ///     } 
+        /// </remarks>
+        /// <param name="model">Dados da vaga.</param>
+        /// <returns>Retorna o objeto criado</returns>
+        /// <response code="201">Sucesso</response>
         [HttpPost]
         public IActionResult Post(AddJobVacancyInputModel model)
         {

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevJobs.API</name>
+    </assembly>
+    <members>
+        <member name="M:DevJobs.API.Controllers.JobVacanciesController.Post(DevJobs.API.Models.AddJobVacancyInputModel)">
+            <summary>
+            Cadastrar uma vada de emprego
+            </summary>
+            <remarks>
+                {
+                "title": "Dev .Net Jr",
+                "description": "Desenvolvimento de aplicações para web",
+                "company": "Mundo Ti",
+                "isRemote": true,
+                "salaryRange": "3000 - 5000"
+                } 
+            </remarks>
+            <param name="model">Dados da vaga.</param>
+            <returns>Retorna o objeto criado</returns>
+            <response code="201">Sucesso</response>
+        </member>
+    </members>
+</doc>
